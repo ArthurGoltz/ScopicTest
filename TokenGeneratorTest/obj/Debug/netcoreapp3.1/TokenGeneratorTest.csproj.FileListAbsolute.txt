@@ -1,0 +1,5 @@
+C:\Users\arthu\Desktop\Teste\McDonalds\TokenGenerator\TokenGeneratorTest\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\arthu\Desktop\Teste\McDonalds\TokenGenerator\TokenGeneratorTest\obj\Debug\netcoreapp3.1\TokenGeneratorTest.csprojAssemblyReference.cache
+C:\Users\arthu\Desktop\Teste\McDonalds\TokenGenerator\TokenGeneratorTest\obj\Debug\netcoreapp3.1\TokenGeneratorTest.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\Teste\McDonalds\TokenGenerator\TokenGeneratorTest\obj\Debug\netcoreapp3.1\TokenGeneratorTest.AssemblyInfo.cs
+C:\Users\arthu\Desktop\Teste\McDonalds\TokenGenerator\TokenGeneratorTest\obj\Debug\netcoreapp3.1\TokenGeneratorTest.csproj.CoreCompileInputs.cache
