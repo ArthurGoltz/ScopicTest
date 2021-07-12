@@ -1,4 +1,4 @@
-# McDonaldsTest
+# ScopicTest
 Test Arthur
 
 
